@@ -1,0 +1,1 @@
+global.playerdeaht = 1;
